@@ -1,8 +1,8 @@
 # Diamond-Dash
 Catch the diamond with the plate
 
-**you would need "OpenGL library" to run the .py file
- you can download and install "OpenGL library" via VSCode terminal commands
+**you would need "OpenGL library" to run the .py file.
+ you can download and install "OpenGL library" via VSCode terminal commands.
 
  Game rules-->
 --> left & right arrow keys to move the plate
